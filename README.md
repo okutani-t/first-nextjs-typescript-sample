@@ -33,4 +33,3 @@ $ npm list --depth=0
 * React: 17.0.2
 * Next.js: 10.2.2
 * TypeScript: 4.0.7
-

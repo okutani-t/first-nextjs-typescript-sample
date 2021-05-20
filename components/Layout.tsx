@@ -18,7 +18,7 @@ const Layout = ({ children, title = 'Next.js + TypeScriptのサンプルサイ�
       <nav>
         <Link href="/">
           <a>Home</a>
-        </Link>{' '}
+        </Link>
       </nav>
     </header>
     {children}
